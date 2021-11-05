@@ -25,8 +25,9 @@ INSERT DESCRIPTION OF APPROACHES
 ## To-Do's:
 
 - [ ] literature review -> collect relevant papers in the Slack channel
-- [ ] get accustomes with the robot
-- [ ] successfully get the robot to grasp a cable
-- [ ] program automomous data collection cycle
+- [X] get accustomed with the robot
+- [X] successfully get the robot to grasp a cable
+- [X] program automomous data collection cycle
+- [ ] do data pre-processing
 - [ ] finalize coding architecture
-- [ ] divide up work between the 3 of us
+- [ ] divide up work between the 4 of us

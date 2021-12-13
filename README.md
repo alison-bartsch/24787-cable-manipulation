@@ -1,10 +1,8 @@
 # 24787 Project
 
-This will be where we keep a log of our process as well as track our To-Do's
 
 
 ## Data Collection:
-INSERT DIAGRAM SKETCH
 
   1) We place the cable on the stand running through the guide
   2) The robot grasps the cable from the stand and lifts it up
@@ -19,15 +17,10 @@ INSERT DIAGRAM SKETCH
 
 ## ML Approaches
 
-INSERT DESCRIPTION OF APPROACHES
-
-
-## To-Do's:
-
-- [ ] literature review -> collect relevant papers in the Slack channel
-- [X] get accustomed with the robot
-- [X] successfully get the robot to grasp a cable
-- [X] program automomous data collection cycle
-- [ ] do data pre-processing
-- [ ] finalize coding architecture
-- [ ] divide up work between the 4 of us
+- Decision Tree
+- Random Forrest
+- Support Vector Classification
+- Naive Bayes
+- Logistic Regression
+- CNN
+- MLP
